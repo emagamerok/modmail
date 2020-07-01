@@ -1,1 +1,1 @@
-worker: pipenv run bot
+worker: pipenv run bot.py
